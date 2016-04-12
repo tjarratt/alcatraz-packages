@@ -917,6 +917,12 @@
         "screenshot": "http://injectionforxcode.johnholdsworth.com/refactorator.png"
       },
       {
+        "name": "XcodeBetterRefactorTools",
+        "url": "https://github.com/tjarratt/xcode-better-refactor-tools",
+        "description": "Tools to generate Swift test doubles, refactor methods and more!",
+        "screenshot": "https://raw.githubusercontent.com/tjarratt/Xcode-Better-Refactor-Tools/master/alcatraz.png"
+      },
+      {
         "name": "SwiftLintXcode",
         "url": "https://github.com/ypresto/SwiftLintXcode",
         "branch": "release",
